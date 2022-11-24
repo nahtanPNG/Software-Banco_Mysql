@@ -1,0 +1,49 @@
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Banco_Mysql.exe.config
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Banco_Mysql.exe
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Banco_Mysql.pdb
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\MySql.Data.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Google.Protobuf.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Zstandard.Net.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\BouncyCastle.Crypto.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Ubiety.Dns.Core.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Memory.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Buffers.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\K4os.Compression.LZ4.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\K4os.Hash.xxHash.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Numerics.Vectors.dll
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\bin\Debug\MySql.Data.xml
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.AssemblyReference.cache
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.Form1.resources
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.Properties.Resources.resources
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.GenerateResource.cache
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.CoreCompileInputs.cache
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.CopyComplete
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.exe
+D:\ETEC 2022\DS\4 Bimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.pdb
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.AssemblyReference.cache
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.Form1.resources
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.Properties.Resources.resources
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.GenerateResource.cache
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.CoreCompileInputs.cache
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.exe
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.pdb
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Banco_Mysql.exe.config
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Banco_Mysql.exe
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Banco_Mysql.pdb
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\MySql.Data.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Google.Protobuf.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Zstandard.Net.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\Ubiety.Dns.Core.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Memory.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Buffers.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\K4os.Compression.LZ4.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\K4os.Hash.xxHash.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\System.Numerics.Vectors.dll
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\bin\Debug\MySql.Data.xml
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.csproj.CopyComplete
+D:\Escola\2ºAno\DS\4ºBimestre\Banco_Mysql\Banco_Mysql\obj\Debug\Banco_Mysql.consulta.resources
